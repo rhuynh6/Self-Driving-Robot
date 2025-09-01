@@ -1,3 +1,3 @@
-This is a robot that is able to navigate a track with lane and collision detection. 
+#Self-Driving-Robot
 
-The image processing and ML algorithms used are sped up using hardware acceleration on the PYNQ-Z2 board. 
+A robot capable of navigating a turn using lane detection, lane heading calculation, and a PID controller.
