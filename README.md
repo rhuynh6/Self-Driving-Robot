@@ -1,4 +1,4 @@
-# Self Driving Robot
+# Hardware Acceleration for Autonomous Lane Control on AMD SOC FPGA
 **Team Number**: Team AOHW25_805
 
 ![Robot Car image](readme_files/robot.jpg)
